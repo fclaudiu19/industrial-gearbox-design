@@ -1,0 +1,8 @@
+*.lnk
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+*.CATSettings
+*.lck
